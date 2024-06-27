@@ -1,0 +1,192 @@
+    
+  
+    p{
+    /* font-family: Madimi One; */
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-store{
+    /* display: inline-block; */
+    /* padding-left: 40px; */
+    /* padding-right: 40px; */
+    /* padding-top: 5px; */
+    /* padding-bottom: 5px; */
+    /* background: rgb(78, 241, 141); */
+    border-radius: 6px;     
+}
+
+.home-name{
+    display: inline-block;
+    font-size: 43px;
+    padding-top: 4.5px;
+    padding-bottom: 4.5px;
+    width: 15px;
+    padding-left: 50px;
+}
+
+.image{
+    display: inline;
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 15px;
+    /* opacity: 40%; */
+}
+
+.image-container{
+    position: relative;
+}
+
+.pharmacy-image{
+    position: absolute;
+    top: 12%;
+    left: 65%;
+    transform: (-50%, -50%);
+    width: 15%;
+    /* height: 120%; */
+    border-radius: 70%;
+    box-shadow: -7px 6px 6px  rgb(159, 210, 139);
+    }
+    .note-seller{
+    position: absolute;
+    transform: (-50%, -50%);
+    top: 8%;
+    left: 15%;
+    width: 450px;
+    }
+    .become{
+    font-family: Madimi One;
+    font-weight: 400;
+    color: black;
+    font-size: 35px;
+    }
+    .promoter{
+    position: absolute;
+    transform: (-50%, -50%);
+    top: 40%;
+    left: 15%;
+    /* width: 600px;     */
+    }
+    .popular{
+    font-size: 25px;
+    }
+
+    .add-product{
+    position: absolute;
+    transform: (-50%, -50%);    
+    top: 80%;
+    left: 88%;
+    /* width: 600px;     */
+    }
+    .add-button{
+    border: 2px;
+    padding-left: 36px;
+    padding-right: 36px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-family: Madimi One;
+    border-radius: 40px;
+    background-color: rgb(255, 217, 63);
+}
+    .register{
+    position: absolute;
+    transform: (-50%, -50%);
+    top: 60%;
+    left: 18%;
+    /* width: 600px;     */
+    }
+    .register-button{
+    border: 2px;
+    padding-left: 36px;
+    padding-right: 36px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: 22px;
+    font-family: Madimi One;
+    border-radius: 40px;
+    background-color: rgb(254, 233, 153);
+}
+.lower-half{
+    display: block;
+    /* vertical-align: top; */
+}
+.your-inventory{
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    font-size: 17px;
+    background-color: #bfe1bb;
+    border-radius: 40px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* color: rgb(81, 61, 3); */
+}
+.head{
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-width: 10px;
+    border: black;
+}
+.thumbnail-Store{
+    width: 300px;
+    display: inline-block;
+    /* margin-right: 15px; */
+    vertical-align: top;
+}
+
+.title{
+    /* width: 200px; */
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+    margin-top: 4px;
+    margin-bottom: 12px;
+}
+
+.composition{
+    font-size: 16px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+.manufacturer{
+    font-size: 16px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 4px;
+}
+
+.meds-image{
+    /* display: inline-block; */
+    /* vertical-align: top; */
+    width: 230px;
+    margin-right: 60px;
+    margin-left: 7px;
+}
+.info{
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    margin-bottom: 12px;
+    margin-left: 20px; 
+}
+.product{
+    border-color: black;
+    border-top-width: 2px;
+}
+
+
+.meds-store{
+    display: inline-block;
+    padding-left: 10px;
+    /* padding-top: 40px; */
+
+}
